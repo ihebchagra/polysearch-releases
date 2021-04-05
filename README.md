@@ -1,4 +1,4 @@
 # polysearch-releases
 Public releases repo for the PolySearch app
 
-current version: 0.1
+current version: v0.2
